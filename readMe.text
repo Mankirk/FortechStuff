@@ -1,0 +1,7 @@
+Project for Fortech internship
+
+used Bootstap and jQuery, Express for backend configuration
+
+html file: index.ejs
+css file : app.css
+javascript file: appjs.js
